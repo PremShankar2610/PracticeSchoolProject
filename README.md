@@ -1,11 +1,14 @@
 # PracticeSchoolProject
-This project is an effort to make defect detection in vehicles using Image classification techniques. The project is comprised of three phases : -
-1. Sorting of different parts of vehicles and allocating the part to its usable car.
-2. Detecting defects in vehicles using Binary Classification.
-3. Developing th website and integration of all the three models or code blocks.
+
+This project is an effort to make defect detection in vehicles using Image classification techniques: -
+
+1. Detecting defects in vehicles using Transfer Learning.
+2. Developing the website which supports uploading images of car directly from system/camera.The site predicts whether the image of car uploaded is defective or not.
 
 
 For using this project, the user needs to : - 
-1. Download all the text stack and code blocks into their device.
+1. Download all the necessary libraries mentioned in the readme.docx into their device.
 2. The user need to have their relevant data set to generate the model files.
-3. The user only needs to change the Directory Path to the dataset location. 
+3. All the necessary changes which are required to be made for creating the models are mentioned in the jupyter notebook and also in the readme.docx file. 
+
+**Note that** : The actual problem statement is different from our final project. Due to confidentiality of the orignal dataset we had to work on a toy dataset . This website was created only for demonstration of the functionalities of the final site required by the organization.
